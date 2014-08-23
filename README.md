@@ -39,7 +39,7 @@ Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptern
 
 ### 5
 
-Finally, once your chapter is up and running, make a pull request to the NodeSchool website's Chapters page (coming soon) to add your Chapter to the directory
+Finally, once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) Chapters page to add your Chapter to the directory
 
 Benefits of this approach:
 
