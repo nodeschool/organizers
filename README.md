@@ -51,7 +51,7 @@ Once your chapter is up and running, make a pull request to the [NodeSchool webs
 
 NodeSchool events are kept in [this Google Spreadsheet](https://docs.google.com/a/github.com/spreadsheet/ccc?key=0AuOjlXjUrSbAdE1XRFJkeEJZQ1NSelhILUR0NXdBWUE#gid=0). Add your event details on the next row of the spreadsheet. See the comments on the 'Start Date' and 'Location' columns for more formatting details.
 
-### 7 (options) make a logo!
+### 7 Make a logo (optional)
 
 You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.github.io/tree/master/images/make-a-sticker) to design your own custom nodeschool sticker/logo.
 
