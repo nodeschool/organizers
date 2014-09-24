@@ -47,17 +47,18 @@ Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptern
 
 Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) Chapters page to add your Chapter to the directory
 
-### 6 - Add your event to the NodeSchool webpage!
+That's all the mandatory steps. Here are some optional steps:
+
+#### Add your events to the NodeSchool webpage
 
 NodeSchool events are kept in [this Google Spreadsheet](https://docs.google.com/a/github.com/spreadsheet/ccc?key=0AuOjlXjUrSbAdE1XRFJkeEJZQ1NSelhILUR0NXdBWUE#gid=0). Add your event details on the next row of the spreadsheet. See the comments on the 'Start Date' and 'Location' columns for more formatting details.
 
-### 7 Make a logo (optional)
+#### Make a logo
 
 You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.github.io/tree/master/images/make-a-sticker) to design your own custom nodeschool sticker/logo.
 
-You are all done!
 
-Benefits of this approach:
+### Benefits of this approach
 
 - chapters get their own "mailing list" (github issues). These can be in other languages as well, e.g. Spanish for Latin-American Chapters, whereas the main Discussions repo is primarily in English
 - all NodeSchool attendees leave with a GitHub account and a community they can ask questions to
