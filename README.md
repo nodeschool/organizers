@@ -9,6 +9,12 @@ A discussion repository for nodeschool organizers
 
 **First, open an issue on this repo asking to get added as an Owner**
 
+Your issue should say something like this (not everything is required but it's nice to tell us a little about yourself so you don't come across as a total stranger):
+
+```
+Hi, I would like to start a nodeschool chapter for <name of geographic community>. I am <@your twitter name> on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with <names of other organizers>. I have been using Node.js for 6 months and would like to help others learn as well.
+```
+
 Once you are an owner follow these instructions to set up your NodeSchool chapter:
 
 ### 1
@@ -41,11 +47,13 @@ Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptern
 
 Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) Chapters page to add your Chapter to the directory
 
-### 6
-
-## Add your event to the NodeSchool webpage!
+### 6 - Add your event to the NodeSchool webpage!
 
 NodeSchool events are kept in [this Google Spreadsheet](https://docs.google.com/a/github.com/spreadsheet/ccc?key=0AuOjlXjUrSbAdE1XRFJkeEJZQ1NSelhILUR0NXdBWUE#gid=0). Add your event details on the next row of the spreadsheet. See the comments on the 'Start Date' and 'Location' columns for more formatting details.
+
+### 7 (options) make a logo!
+
+You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.github.io/tree/master/images/make-a-sticker) to design your own custom nodeschool sticker/logo.
 
 You are all done!
 
