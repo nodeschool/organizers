@@ -51,7 +51,7 @@ That's all the mandatory steps. Here are some optional steps:
 
 #### Add your events to the NodeSchool webpage
 
-NodeSchool events are kept in [this Google Spreadsheet](https://docs.google.com/a/github.com/spreadsheet/ccc?key=0AuOjlXjUrSbAdE1XRFJkeEJZQ1NSelhILUR0NXdBWUE#gid=0). Add your event details on the next row of the spreadsheet. See the comments on the 'Start Date' and 'Location' columns for more formatting details.
+Fill out this [form](https://docs.google.com/forms/d/1vYW-Yw82kt_q7WDgBY6gQqFrg3zuD2rDPXEG-cbq7e4/viewform?usp=form_confirm) to add your event to the website.
 
 #### Make a logo
 
