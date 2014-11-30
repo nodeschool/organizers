@@ -47,7 +47,9 @@ Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptern
 
 _This step is important for discoverability!_
 
-Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) Chapters page to add a chapter JSON file to the /chapters directory. When your request is accepted, your chapter will get auto-added to http://nodeschool.io/chapters.html -- your file should look like this: 
+Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) to add a chapter JSON file to the /chapters directory. When your request is accepted, your chapter will get auto-added to http://nodeschool.io/chapters.html
+
+The chapter JSON file should look something like this: 
 
 ```json
 {
@@ -65,8 +67,9 @@ Once your chapter is up and running, make a pull request to the [NodeSchool webs
 Notes about the chapter JSON files: 
 
 * `"country"` should be [an ISO-3166 2-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-* `"region"` should match an existing region found on http://nodeschool.io/chapters.html if possible
+* `"region"` should match an existing region found on http://nodeschool.io/chapters.html if possible, or a new one if your chapter doesn't fit in any of the existing regions
 * Leave fields off the file or leave them blank if you don't have a website, twitter, etc.
+* Feel free to add new fields, looking at what other chapter JSON files are doing to create as much consistency as possible
 
 That's all the mandatory steps. Here are some optional steps:
 
