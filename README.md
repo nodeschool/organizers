@@ -45,7 +45,24 @@ Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptern
 
 ### 5
 
-Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) Chapters page to add your Chapter to the directory
+_This step is important for discoverability!_
+
+Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) Chapters page to add a chapter JSON file to the /chapters directory. When your request is accepted, your chapter will get auto-added to http://nodeschool.io/chapters.html -- your file should look like this: 
+
+```json
+{
+  "name": "Baltimore NodeSchool",
+  "location": "Baltimore, MD",
+  "country": "US",
+  "region": "North America",
+  "organizers": ["jasonrhodes"],
+  "website": "http://nodeschool.io/baltimore",
+  "twitter": "bmorenodeschool",
+  "repo": "http://github.com/nodeschool/baltimore"
+}
+```
+
+Leave them blank if you don't have a website, twitter, etc.
 
 That's all the mandatory steps. Here are some optional steps:
 
