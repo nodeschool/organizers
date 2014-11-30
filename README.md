@@ -62,7 +62,11 @@ Once your chapter is up and running, make a pull request to the [NodeSchool webs
 }
 ```
 
-Leave them blank if you don't have a website, twitter, etc.
+Notes about the chapter JSON files: 
+
+* `"country"` should be [an ISO-3166 2-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+* `"region"` should match an existing region found on http://nodeschool.io/chapters.html if possible
+* Leave fields off the file or leave them blank if you don't have a website, twitter, etc.
 
 That's all the mandatory steps. Here are some optional steps:
 
