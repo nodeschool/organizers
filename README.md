@@ -64,12 +64,22 @@ The chapter JSON file should look something like this:
 }
 ```
 
-Notes about the chapter JSON files: 
+**Chapter JSON field info:**
 
-* `"country"` should be [an ISO-3166 2-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-* `"region"` should match an existing region found on http://nodeschool.io/chapters.html if possible, or a new one if your chapter doesn't fit in any of the existing regions
-* Leave fields off the file or leave them blank if you don't have a website, twitter, etc.
-* Feel free to add new fields, looking at what other chapter JSON files are doing to create as much consistency as possible
+| field | description |
+|-------|-----------|-------------|
+| `name`* | Whatever you call your event, often `<location> NodeSchool` |
+| `location`* | This appears on the chapters.html page, often `<City>` or `<City, State>` but can be any geocode-able string |
+| `country` | If your location isn't a country, list the [ISO-3166 2-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) for consistency |
+| `region`* | Choose an existing region from [the chapters page](http://nodeschool.io/chapters.html) if possible--if not then pick a broad, non-country region name |
+| `organizers` | An array of GitHub usernames |
+| `website` | URL to the main website for your chapter, if one exists besides your GitHub repo |
+| `repo`* | GitHub repo URL |
+| other? | Any other services like Twitter, Gitter, etc. that exist for the _chapter_ (not the organizer's info) |
+
+*required
+
+---
 
 That's all the mandatory steps. Here are some optional steps:
 
