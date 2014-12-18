@@ -21,7 +21,11 @@ Once you are an owner follow these instructions to set up your NodeSchool chapte
 
 Chapter owner should create a repo for their chapter, e.g. https://github.com/nodeschool/berlin
 
-The repo name should be short and all lowercase (since this will also be your chapter url, see step 4).
+The chapter name should preferably be the name of the city, where the workshops will
+be held. Alternatively the area should be small, but yet meaningful, e.g `princeton` instead of
+`new-jersey` or `usa`. If you are covering multiple cities, consider creating multiple repos.
+
+Also the repo name should be short and all lowercase (since this will also be your chapter url, see step 4).
 
 ### 2
 
