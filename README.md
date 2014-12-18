@@ -21,6 +21,8 @@ Once you are an owner follow these instructions to set up your NodeSchool chapte
 
 Chapter owner should create a repo for their chapter, e.g. https://github.com/nodeschool/berlin
 
+The repo name should be short and all lowercase (since this will also be your chapter url, see step 4).
+
 ### 2
 
 Chapter owner should make a new Team on the nodeschool org with the same name. The owner then has to go into the chapter org and specifically add the chapter team as a collaborator:
