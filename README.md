@@ -47,6 +47,10 @@ For example we have [Oakland](https://github.com/nodeschool/oakland) and [Berlin
 
 @finnp forked the csvconf website and set up [a gh-pages branch](https://github.com/nodeschool/berlin/tree/gh-pages) for the berlin repo and thanks to the awesomeness that is GitHub Pages this url automatically works: http://nodeschool.io/berlin/
 
+You should create a code of conduct for your website and repository. You can use 
+[this template](codeofconduct-template.md) as a starting point. Make sure to make
+all people feel welcome at your event.
+
 Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptername>` to automatically get a chat room for your chapter.
 
 ### 5
