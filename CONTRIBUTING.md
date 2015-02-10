@@ -9,18 +9,18 @@ There are two main things that nodeschool does:
 - build and maintain automated workshops that teach software + open source skills
 - organize educational events around the world
 
-### where does the name come from?
-
-nodeschool started in the Node.js community, but has since expanded to be more general. For example, we used to only have Node.js related content but now have workshops on a much wider range of content such as JavaScript, GLSL (graphics shaders), Git and WebGL.
-
-Luckily, the word 'node' is pretty generic and can mean a lot of things :)
-
 Here are some of the tenets of the community:
 
 - there is no top-down leadership structure. we have thousands of students, hundreds of chapter organizers, and a small group of central admins who keep the website running etc.
 - chapters should experiment with new ways to engage their community, and share approaches with other chapters over time
 - events should be affordable and should strive towards diversity and inclusiveness
 - we are 100% open source and like to license things as open source/creative commons
+
+### where does the name come from?
+
+nodeschool started in the Node community, but has since expanded to be much more broad. For example, we used to only have Node related content but now have workshops on a much wider range of content such as JavaScript, GLSL (graphics shaders), Git and WebGL.
+
+We are now active in many communities around the world. Each chapter is an individual node that shares content and approaches with other nodes in the graph, which is why we still use the word 'node' in our name even though we are not specific to Node.js/io.js anymore.
 
 ### ways to contribute
 
