@@ -6,14 +6,21 @@ We are a **100% volunteer run** international open source community. We always n
 
 There are two main things that nodeschool does:
 
-- automated workshops](http://nodeschool.io/building-workshops.html
-- encourage local, in-person educational events
+- build and maintain automated workshops that teach software + open source skills
+- organize educational events around the world
+
+### where does the name come from?
+
+nodeschool started in the Node.js community, but has since expanded to be more general. For example, we used to only have Node.js related content but now have workshops on a much wider range of content such as JavaScript, GLSL (graphics shaders), Git and WebGL.
+
+Luckily, the word 'node' is pretty generic and can mean a lot of things :)
 
 Here are some of the tenets of the community:
 
-- there is no top-down leadership structure. we have thousands of students, hundreds of community organizers, and a small group of central admins who keep the website running etc. we try to keep decision making as decentralized as possible
-- we are 100% open source and like to license things as open source/creative commons
+- there is no top-down leadership structure. we have thousands of students, hundreds of chapter organizers, and a small group of central admins who keep the website running etc.
+- chapters should experiment with new ways to engage their community, and share approaches with other chapters over time
 - events should be affordable and should strive towards diversity and inclusiveness
+- we are 100% open source and like to license things as open source/creative commons
 
 ### ways to contribute
 
