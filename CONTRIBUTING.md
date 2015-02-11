@@ -55,6 +55,8 @@ If you have an idea for a new workshop, you can dive right in and [build a new o
 
 #### improve documentation
 
+A big part of nodeschool is documenting our process in a way that helps other organizers build successful communities around the world.
+
 If you come across something that is unclear, either in a workshop, on our website, or anywhere else that has content tracked by git, please **send pull requests**!
 
 If you have never sent a pull request before, we have a workshop that teaches you how:
