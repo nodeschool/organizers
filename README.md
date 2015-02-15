@@ -35,7 +35,7 @@ Chapter owner should make a new Team on the nodeschool org with the same name. T
 
 ### 3
 
-**Everyone** who ever attends a nodeschool event by that chapter should added as a member of the chapter team by the Owner (so they can open/close issues and push to the chapter org but can't e.g. delete repos). People can obviously decline the invitation to get added.
+**Everyone** who ever attends a nodeschool event by that chapter should be added as a member of the chapter team by the Owner (so they can open/close issues and push to the chapter org but can't e.g. delete repos). People can obviously decline the invitation to get added.
 
 A note on github orgs: Only Owners can add new team members. The original Owner can add other trustworthy people from the chapter to the Owners team so that they can also add NodeSchool attendees to your chapter's team. Please use good judgment when adding new Owners, as Owners also have the ability to delete other chapter's repositories. 
 
