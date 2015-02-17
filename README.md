@@ -5,15 +5,17 @@ organizers
 
 A discussion repository for nodeschool organizers
 
+If you are an existing organizer, or intend to become one in the future **please read and abide by our [code of conduct](https://github.com/nodeschool/organizers/blob/master/code_of_conduct.md)**.
+
 ## How to start a new NodeSchool chapter
 
 **First, open an issue on this repo asking to get added as an Owner**
 
 Your issue should say something like this (not everything is required but it's nice to tell us a little about yourself so you don't come across as a total stranger):
 
-```
-Hi, I would like to start a nodeschool chapter for <name of geographic community>. I am <@your twitter name> on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with <names of other organizers>. I have been using Node.js for 6 months and would like to help others learn as well.
-```
+*
+Hi, I would like to start a nodeschool chapter for [name of geographic community]. I am [@your twitter name] on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with [names of other organizers]. I have been using Node.js for 6 months and would like to help others learn as well.
+*
 
 Once you are an owner follow these instructions to set up your NodeSchool chapter:
 
