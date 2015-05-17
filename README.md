@@ -3,7 +3,8 @@ organizers
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/organizers.png)](https://gitter.im/nodeschool/organizers)
 
-A discussion repository for nodeschool organizers
+- Learn to run an event and get pro-tips from other organizers in the [organizers wiki](https://github.com/nodeschool/organizers/wiki)
+- Ask a question or browse discussions in the [organizers discussion board](https://github.com/nodeschool/organizers/issues)
 
 If you are an existing organizer, or intend to become one in the future **please read and abide by our [code of conduct](https://github.com/nodeschool/organizers/blob/master/code_of_conduct.md)**.
 
