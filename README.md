@@ -60,7 +60,7 @@ Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptern
 
 _This step is important for discoverability!_
 
-Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) to add a chapter JSON file to the /chapters directory. When your request is accepted, your chapter will get auto-added to http://nodeschool.io/chapters.html
+Once your chapter is up and running, make a pull request to the [NodeSchool website](https://github.com/nodeschool/nodeschool.github.io/) to add a chapter JSON file to the /chapters directory. Before submitting your pull request, ***do not forget*** to run `npm build` to update all the appropriate json files. When your request is accepted, your chapter will get auto-added to http://nodeschool.io/chapters.html
 
 The chapter JSON file should look something like this: 
 
