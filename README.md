@@ -10,7 +10,7 @@ If you are an existing organizer, or intend to become one in the future **please
 
 ## How to start a new NodeSchool chapter
 
-**First, open an issue on this repo asking to get added as an Owner**
+**First, open an issue on this repo asking to get added as a chapter organizer**
 
 Your issue should say something like this (not everything is required but it's nice to tell us a little about yourself so you don't come across as a total stranger):
 
@@ -18,31 +18,19 @@ Your issue should say something like this (not everything is required but it's n
 Hi, I would like to start a nodeschool chapter for [name of geographic community]. I am [@your twitter name] on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with [names of other organizers]. I have been using Node.js for 6 months and would like to help others learn as well.
 *
 
-Once you are an owner follow these instructions to set up your NodeSchool chapter:
+The chapter name should preferably be the name of the city, where the workshops will
+be held. Alternatively the area should be small, but yet meaningful, e.g `princeton` instead of
+`new-jersey` or `usa`. Also the repo name should be short and all lowercase.
+
+**An existing Owner will have to respond and create your Chapter repository for you**
+
+Once you are an organizer follow these instructions to set up your NodeSchool chapter:
 
 ### 1
 
-Chapter owner should create a repo for their chapter, e.g. https://github.com/nodeschool/berlin
-
-The chapter name should preferably be the name of the city, where the workshops will
-be held. Alternatively the area should be small, but yet meaningful, e.g `princeton` instead of
-`new-jersey` or `usa`. If you are covering multiple cities, consider creating multiple repos.
-
-Also the repo name should be short and all lowercase (since this will also be your chapter url, see step 4).
+You should have been added to the team called `chapter-organizers` and should have access to edit the new chapter repo, e.g. https://github.com/nodeschool/berlin
 
 ### 2
-
-Chapter owner should make a new Team on the nodeschool org with the same name. The owner then has to go into the chapter org and specifically add the chapter team as a collaborator:
-
-![screen shot 2014-08-21 at 2 44 41 pm](https://cloud.githubusercontent.com/assets/39759/4004063/751d878c-297c-11e4-9101-d22a9d7ff037.png)
-
-### 3
-
-**Everyone** who ever attends a nodeschool event by that chapter should be added as a member of the chapter team by the Owner (so they can open/close issues and push to the chapter org but can't e.g. delete repos). People can obviously decline the invitation to get added.
-
-A note on github orgs: Only Owners can add new team members. The original Owner can add other trustworthy people from the chapter to the Owners team so that they can also add NodeSchool attendees to your chapter's team. Please use good judgment when adding new Owners, as Owners also have the ability to delete other chapter's repositories. 
-
-### 4
 
 Each chapter can set up their own gh-pages branch on their org and github pages will automatically route `nodeschool.io/<reponame>` to it
 
@@ -56,7 +44,7 @@ all people feel welcome at your event.
 
 Another bonus feature is that you can simply use `gitter.im/nodeschool/<chaptername>` to automatically get a chat room for your chapter.
 
-### 5
+### 3
 
 _This step is important for discoverability!_
 
@@ -110,7 +98,5 @@ You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.gi
 - chapters get their own "mailing list" (github issues). These can be in other languages as well, e.g. Spanish for Latin-American Chapters, whereas the main Discussions repo is primarily in English
 - all NodeSchool attendees leave with a GitHub account and a community they can ask questions to
 - chapters get their own website
-- chapters can start quantifying their membership
-- chapters can get pinged using `@nodeschool/<teamname>`
 - since all chapter members are [open open source](https://github.com/rvagg/node-leveldown#contributing) style contributors it means everyone gets empowered to help moderate discussions and improve the chapter website
 - we can list all of the chapters on the nodeschool site
