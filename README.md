@@ -34,7 +34,7 @@ You should have been added to the team called `chapter-organizers` and should ha
 
 Each chapter can set up their own gh-pages branch on their org and github pages will automatically route `nodeschool.io/<reponame>` to it
 
-For example we have [Oakland](https://github.com/nodeschool/oakland) and [Berlin](https://github.com/nodeschool/berlin) repos now, and I made [corresponding teams](https://github.com/orgs/nodeschool/teams)
+For example we have [Oakland](https://github.com/nodeschool/oakland) and [Berlin](https://github.com/nodeschool/berlin).
 
 @finnp forked the csvconf website and set up [a gh-pages branch](https://github.com/nodeschool/berlin/tree/gh-pages) for the berlin repo and thanks to the awesomeness that is GitHub Pages this url automatically works: http://nodeschool.io/berlin/
 
