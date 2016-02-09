@@ -90,7 +90,7 @@ Fill out this [form](https://docs.google.com/forms/d/1vYW-Yw82kt_q7WDgBY6gQqFrg3
 
 #### Make a logo
 
-You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.github.io/tree/master/images/make-a-sticker) to design your own custom nodeschool sticker/logo. There is also a [design helper](http://www.finnpauls.de/nodeschool-stickerify/) for the browser based on the design for sketching a simple sticker.
+You can [use this .AI/.SVG template](https://github.com/nodeschool/nodeschool.github.io/tree/master/images/make-a-sticker) to design your own custom nodeschool sticker/logo. There is also a [design helper](http://www.finnpauls.de/nodeschool-stickerify/) for the browser based on the design for sketching a simple sticker. A sticker specification can be found [here](https://github.com/terinjokes/StickerConstructorSpec). 
 
 
 ### Benefits of this approach
