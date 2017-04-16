@@ -68,7 +68,7 @@ The chapter JSON file should look something like this:
 **Chapter JSON field info:**
 
 | field | description |
-|-------|-----------|-------------|
+|-------|-----------|
 | `name`* | Whatever you call your event, often `<location> NodeSchool` |
 | `location`* | This appears on the chapters.html page, often `<City>` or `<City, State>` but can be any geocode-able string |
 | `country` | If your location isn't a country, list the [ISO-3166 2-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) for consistency |
