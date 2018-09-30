@@ -14,9 +14,7 @@ If you are an existing organizer, or intend to become one in the future **please
 
 Your issue should say something like this (not everything is required but it's nice to tell us a little about yourself so you don't come across as a total stranger):
 
-*
-Hi, I would like to start a nodeschool chapter for [name of geographic community]. I am [@your twitter name] on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with [names of other organizers]. I have been using Node.js for 6 months and would like to help others learn as well.
-*
+> Hi, I would like to start a nodeschool chapter for [name of geographic community]. I am [@your twitter name] on twitter and work at/on <name of company or project>. I will be co-organizing this chapter with [names of other organizers]. I have been using Node.js for 6 months and would like to help others learn as well.
 
 The chapter name should preferably be the name of the city, where the workshops will
 be held. Alternatively the area should be small, but yet meaningful, e.g `princeton` instead of
