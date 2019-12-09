@@ -57,9 +57,9 @@ The chapter JSON file should look something like this:
   "country": "US",
   "region": "North America",
   "organizers": ["jasonrhodes"],
-  "website": "http://nodeschool.io/baltimore",
+  "website": "https://nodeschool.io/baltimore",
   "twitter": "bmorenodeschool",
-  "repo": "http://github.com/nodeschool/baltimore"
+  "repo": "https://github.com/nodeschool/baltimore"
 }
 ```
 
